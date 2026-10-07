@@ -1,2 +1,2 @@
-# guthub
+# github
 Noções de GitHub
